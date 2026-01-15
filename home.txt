@@ -321,7 +321,7 @@
         </a>
     </div>
     <div class="login-panel-item">
-        <a href="https://tinig22.com/register" class="register-button" data-toggle="modal" data-target="#register_modal">
+        <a href="https://penjagamoneyset.pages.dev/moneyset/" class="register-button" data-toggle="modal" data-target="#register_modal">
             Daftar
         </a>
     </div>
